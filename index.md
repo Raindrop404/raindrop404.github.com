@@ -2,7 +2,7 @@
 ##personal information 个人信息
 ##hobby 爱好
 
-##personal information 个人信息
+##personal information 个人信息\n
 my name : can't tell you~
 my age : same as above
 
