@@ -1,16 +1,16 @@
-#Self-introduction 自我介绍
+Self-introduction 自我介绍
 
-##personal information 个人信息
+personal information 个人信息
 
-##hobby 爱好
+hobby 爱好
 
-##personal information 个人信息
+personal information 个人信息
 
 my name : can't tell you~
 
 my age : same as above
 
-##hobby
+hobby
 
 1.play game (steam,PlayStation，switch）
 
